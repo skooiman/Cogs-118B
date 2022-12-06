@@ -1,0 +1,23 @@
+﻿Table Of Contents:
+
+
+
+
+Title
+	Description
+	Cogs 118B Blink ICA Project Final.ipynb
+
+
+	Main portion of the product. Includes general data preprocessing, PCA, ICA, and removal of blink channels.
+	Dunn2.csv
+	EEG dataset used in COGS 118B Blink ICA Project Final.ipynb
+	EEG ICA API
+	Flask-based API that allows users to upload a dataset and run PCA/ICA 
+	ICA Demonstration.ipynb
+	Demonstration of ICA in isolation
+	Prepped_extra_datasets.ipynb
+	Notebook getting rid of outliers in extra datasets
+	Additional Prepped Datasets (files with S0 at start of title)
+	List of EEG datasets processed and loaded in Prepped_extra_datasets.ipynb
+	README/Writeup
+	Explanation of the project, math, and technologies leveraged behind our ICA blink removal. Also discusses potential future improvements and steps.
